@@ -15,6 +15,7 @@
 **HTML (HyperText Markup Language) is the standard language used to create web pages.**
 
 **👉 It provides the structure of a webpage.**
+
 **👉 It tells the browser how to display content.**
 
 **Think of HTML as the skeleton of a website.**
@@ -25,3 +26,36 @@
 <p>This is my first webpage.</p>
 
 --
+
+#### **2.🏗️ HTML Document Structure.** ####
+
+-Every HTML page follows a basic structure:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+<body>
+
+    <h1>Welcome</h1>
+    <p>This is a simple HTML page.</p>
+
+</body>
+</html>
+
+**🔍 Explanation** :
+
+<!DOCTYPE html> → Defines HTML5
+<html> → Root element
+<head> → Contains meta information
+<body> → Contains visible content
+
+--
+
+#### **3.🏷️ Important HTML Tags** ####
+
+
+
