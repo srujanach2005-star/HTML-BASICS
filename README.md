@@ -142,7 +142,7 @@
 </html>
 
 **OUT PUT**
-![My Profile](images/srujana.jpeg)
+![Day-1](img/DAY-1 OUT PUT.png)
 
 
 
